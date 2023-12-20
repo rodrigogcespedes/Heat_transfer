@@ -11,6 +11,6 @@ Para ver los analisís de las distintas funciones de transferencia se debe modif
 
 > Librerias utilizadas:
 >* Matplotlib: https://matplotlib.org/stable/gallery/index.html
->* Python Control Systems Library: https://python-control.readthedocs.io/en/0.9.0/
+>* Python Control Systems Library: https://python-control.readthedocs.io/en/
 
 Tambien se utilizo el programa de modelado de digramas de bloques pysimCoder. Imagen de docker: https://hub.docker.com/r/robertobucher/pysimcoder
